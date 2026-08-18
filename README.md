@@ -37,7 +37,6 @@ Trying to be a tech wizard someday...
 <img src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
 </div>
